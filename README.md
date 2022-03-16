@@ -8,10 +8,10 @@ Notes:
 	make -f Makefile 
 
 - To use it
-  gcc ...
-	-I /path to library/src
-        -L /path to library
-        -R /path to library
+  gcc ..
+	-I /path_to_library/src
+        -L /path_to_library
+	-R /path_to_library
         -lananopins
 
 
