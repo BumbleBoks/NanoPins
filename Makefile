@@ -3,6 +3,7 @@ CFLAGS = -fPIC
 
 OBJECTS = debug/nanoGPIO.o \
 	debug/nanoI2C.o \
+	debug/nanoSPI.o \
 	debug/nanoUART.o \
 	debug/nanoPins.o \
 	debug/nanoPWM.o
